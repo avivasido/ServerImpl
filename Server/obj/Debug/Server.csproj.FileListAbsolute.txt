@@ -1,0 +1,45 @@
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Server\bin\Debug\Server.dll
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Server\bin\Debug\Server.pdb
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Server\bin\Debug\BaseClasses.dll
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Server\bin\Debug\Constants.dll
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Server\bin\Debug\BaseClasses.pdb
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Server\bin\Debug\Constants.pdb
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Server\obj\Debug\Server.dll
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Server\obj\Debug\Server.pdb
+C:\Users\Aviv\Desktop\ServerImpl\Server\bin\Debug\Server.dll
+C:\Users\Aviv\Desktop\ServerImpl\Server\bin\Debug\Server.pdb
+C:\Users\Aviv\Desktop\ServerImpl\Server\bin\Debug\BaseClasses.dll
+C:\Users\Aviv\Desktop\ServerImpl\Server\bin\Debug\Constants.dll
+C:\Users\Aviv\Desktop\ServerImpl\Server\bin\Debug\BaseClasses.pdb
+C:\Users\Aviv\Desktop\ServerImpl\Server\bin\Debug\Constants.pdb
+C:\Users\Aviv\Desktop\ServerImpl\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Aviv\Desktop\ServerImpl\Server\obj\Debug\Server.dll
+C:\Users\Aviv\Desktop\ServerImpl\Server\obj\Debug\Server.pdb
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\bin\Debug\Server.dll
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\bin\Debug\Server.pdb
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\bin\Debug\BaseClasses.dll
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\bin\Debug\Constants.dll
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\bin\Debug\QALogic.dll
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\bin\Debug\BaseClasses.pdb
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\bin\Debug\Constants.pdb
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\bin\Debug\QALogic.pdb
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\obj\Debug\Server.dll
+C:\Users\roie dominitz\Desktop\ניסויים\gal\ServerImpl\Server\obj\Debug\Server.pdb
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\Server.dll.config
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\Server.dll
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\Server.pdb
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\Constants.dll
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\Entities.dll
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\EntityFramework.dll
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\QALogic.dll
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\Constants.pdb
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\Entities.pdb
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\QALogic.pdb
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\EntityFramework.xml
+C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gal\Desktop\ServerImpl\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Desktop\ServerImpl\Server\obj\Debug\Server.dll
+C:\Users\Gal\Desktop\ServerImpl\Server\obj\Debug\Server.pdb

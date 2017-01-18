@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script src="http://localhost:8005/JavaScript1.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://localhost:8005/jquery.tokenize.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://localhost:8005/jquery.tokenize.css" />
+    <title></title>
+</head>
+<body onload="submit_test()">
+    <div>
+        <div style="background-color:black;color:white;padding:20px;">
+            <h2>Hello to our undesigned website</h2>
+            <p>currently, only login is possible</p>
+        </div>
+
+        <div align="center">
+            <form style="border:3px solid #f1f1f1;" action="http://localhost:8005/login" method="post" enctype="application/x-www-form-urlencoded">
+                <div class="imgcontainer">
+                    <img src="http://localhost:8005/img.img" alt="Avatar" class="avatar" style="width:304px;height:228px;">
+                </div>
+
+                
+
+                <div class="container" style="background-color:#f6f6cd">
+                    <table>
+                        <tr>
+                            <th>Username</th>
+                            <td><input type="text" placeholder="Enter Username" name="uname" required></td>
+                        </tr>
+                        <tr>
+                            <th>Password</th>
+                            <td><input type="password" placeholder="Enter Password" name="psw" required></td>
+                        </tr>
+                    </table>
+                    <button type="submit">Login</button>
+                    <!--  <label><b>Username</b></label>
+                 <input type="text" placeholder="Enter Username" name="uname" required>
+                 <br />
+                 <label><b>Password </b></label>
+                 <input type="password" placeholder="Enter Password" name="psw" required>
+                 <br />
+                 <button type="submit">Login</button>
+                 <input type="checkbox" checked="checked"> Remember me-->
+                </div>
+
+                <div class="container" style="background-color:#f1f1f1">
+                    <span class="psw"><a href="#">Forgot password?</a></span>
+                </div>
+            </form>
+        </div>
+        <!--<div>
+            <select id="tokenize" multiple="multiple" class="tokenize-sample">
+                <option value="1">Dave</option>
+                <option value="2">Paul</option>
+                <option value="3">Michel</option>
+                <option value="4">Anna</option>
+                <option value="5">Eleanor</option>
+            </select>
+            <script type="text/javascript">
+                $('#tokenize').tokenize();
+            </script>
+        </div>-->
+    </div>
+
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>-->
+    <script type="text/javascript" src="http://localhost:8005/jquery.tokenize.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://localhost:8005/jquery.tokenize.css" />
+    <script src="http://localhost:8005/loginpagescript.js"></script>
+    <title>Question</title>
+</head>
+<body>
+    <div>
+        <img src="http://localhost:8005/img.img" height="300" width="430" />
+    </div>
+    <div>
+        <form>
+            <input type="radio" name="norm" value="normal" onchange="button1changed()" checked> Normal
+            <input type="radio" name="norm" value="abnormal" onchange="button2changed()"> Abnormal<br>
+        </form>
+    </div>
+    <div>
+        <h3>How sure are you of the main diagnosis (normal or not?)</h3>
+        <select id="sure1">
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+        </select>
+    </div>
+    <div id="diagnosis_div" style="display:none">
+        <h3>what is your diagnosis?</h3>
+        <select id="diagnosis" multiple="multiple" class="tokenize-sample" data->
+            <option value="Cavitary Lesion">Cavitary Lesion</option>
+            <option value="Interstitial opacities">Interstitial opacities</option>
+            <option value="Left Pleural Effusion">Left Pleural Effusion</option>
+            <option value="Median Sternotomy">Median Sternotomy</option>
+            <option value="Right Middle Lobe Collapse">Right Middle Lobe Collapse</option>
+        </select>
+        <script type="text/javascript">
+            $('#diagnosis').tokenize();
+
+        </script>
+
+
+        <div>
+            <h3>How sure are you of the diagnosis?</h3>
+            <select id="sure2">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+            </select>
+        </div>
+    </div>
+
+    <div>
+        <br>
+        <button onclick="submit_ans()">submit</button>
+    </div>

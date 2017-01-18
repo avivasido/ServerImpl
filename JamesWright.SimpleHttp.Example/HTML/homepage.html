@@ -1,0 +1,54 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script type="text/javascript" src="http://localhost:8005/jquery.tokenize.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://localhost:8005/jquery.tokenize.css" />
+    <script src="http://localhost:8005/loginpagescript.js"></script>
+    <title>Home Page</title>
+</head>
+<body>
+    <div style="background-color:black;color:white;padding:20px;">
+        <h2>Hello to our undesigned website</h2>
+        <p>currently, only login is possible</p>
+    </div>
+
+    <div align="center">
+       
+
+
+
+            <div class="container" style="background-color:#f6f6cd">
+                <table>
+                    <tr>
+                        <th>eMail</th>
+                        <td><input type="text" placeholder="Enter eMail" id="uname" required></td>
+                    </tr>
+                    <tr>
+                        <th>Password</th>
+                        <td><input type="password" placeholder="Enter Password" id="psw" required></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td>
+                            <button onclick="submit_login()">Login</button>
+                            <button onclick="location.href = 'http://localhost:8005/register'" type="button">register</button>
+                        </td>
+                    </tr>
+                </table>
+                
+            </div>
+
+            <div class="container" style="background-color:#f1f1f1">
+                <span class="psw"><a href="#">Forgot password?</a></span>
+                <button onclick="forgot()">forgot</button>
+            </div>
+       
+    </div>
+</body>
+</html>

@@ -1,0 +1,16 @@
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\DBTesting.dll.config
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\DBTesting.dll
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\DBTesting.pdb
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\Castle.Core.dll
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\Entities.dll
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\EntityFramework.dll
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\Moq.dll
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\Entities.pdb
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\Castle.Core.xml
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\EntityFramework.xml
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\bin\Debug\Moq.xml
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\obj\Debug\DBTesting.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\obj\Debug\DBTesting.dll
+C:\Users\Gal\Desktop\ServerImpl\DBTesting\obj\Debug\DBTesting.pdb

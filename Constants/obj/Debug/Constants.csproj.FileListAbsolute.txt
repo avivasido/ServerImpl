@@ -1,0 +1,10 @@
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Constants\bin\Debug\Constants.dll
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Constants\bin\Debug\Constants.pdb
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Constants\obj\Debug\Constants.dll
+c:\users\gal\documents\visual studio 2013\Projects\ServerImpl\Constants\obj\Debug\Constants.pdb
+C:\Users\Gal\Desktop\ServerImpl\Constants\bin\Debug\Constants.dll
+C:\Users\Gal\Desktop\ServerImpl\Constants\bin\Debug\Constants.pdb
+C:\Users\Gal\Desktop\ServerImpl\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
+C:\Users\Gal\Desktop\ServerImpl\Constants\obj\Debug\Constants.dll
+C:\Users\Gal\Desktop\ServerImpl\Constants\obj\Debug\Constants.pdb

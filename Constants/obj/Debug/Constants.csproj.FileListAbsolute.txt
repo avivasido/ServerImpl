@@ -8,3 +8,8 @@ C:\Users\Gal\Desktop\ServerImpl\Constants\bin\Debug\Constants.pdb
 C:\Users\Gal\Desktop\ServerImpl\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
 C:\Users\Gal\Desktop\ServerImpl\Constants\obj\Debug\Constants.dll
 C:\Users\Gal\Desktop\ServerImpl\Constants\obj\Debug\Constants.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Constants\bin\Debug\Constants.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Constants\bin\Debug\Constants.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Constants\obj\Debug\Constants.csprojResolveAssemblyReference.cache
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Constants\obj\Debug\Constants.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Constants\obj\Debug\Constants.pdb

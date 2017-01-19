@@ -13,3 +13,8 @@ C:\Users\Gal\Desktop\ServerImpl\messagesClasses\bin\Debug\messagesClasses.pdb
 C:\Users\Gal\Desktop\ServerImpl\messagesClasses\obj\Debug\messagesClasses.csprojResolveAssemblyReference.cache
 C:\Users\Gal\Desktop\ServerImpl\messagesClasses\obj\Debug\messagesClasses.dll
 C:\Users\Gal\Desktop\ServerImpl\messagesClasses\obj\Debug\messagesClasses.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\messagesClasses\bin\Debug\messagesClasses.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\messagesClasses\bin\Debug\messagesClasses.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\messagesClasses\obj\Debug\messagesClasses.csprojResolveAssemblyReference.cache
+C:\Users\roie dominitz\Desktop\project\ServerImpl\messagesClasses\obj\Debug\messagesClasses.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\messagesClasses\obj\Debug\messagesClasses.pdb

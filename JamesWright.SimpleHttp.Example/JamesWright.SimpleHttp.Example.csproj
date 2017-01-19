@@ -78,6 +78,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="CSS\jquery.tokenize.css" />
+    <Content Include="HTML\gagq.html" />
+    <Content Include="HTML\gagt.html" />
     <Content Include="HTML\homepage.html" />
     <Content Include="HTML\question.html" />
     <Content Include="HTML\questionPagePart1.txt" />

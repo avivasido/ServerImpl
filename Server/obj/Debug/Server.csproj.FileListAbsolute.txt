@@ -43,3 +43,19 @@ C:\Users\Gal\Desktop\ServerImpl\Server\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Gal\Desktop\ServerImpl\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
 C:\Users\Gal\Desktop\ServerImpl\Server\obj\Debug\Server.dll
 C:\Users\Gal\Desktop\ServerImpl\Server\obj\Debug\Server.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\Server.dll.config
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\Server.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\Server.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\Constants.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\Entities.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\EntityFramework.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\QALogic.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\Constants.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\Entities.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\QALogic.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\EntityFramework.xml
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\obj\Debug\Server.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Server\obj\Debug\Server.pdb

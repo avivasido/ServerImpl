@@ -86,6 +86,26 @@ namespace JamesWright.SimpleHttp.Example
             });
             #endregion
 
+            #region get auto generated question page
+            app.Get("/gagq", async (req, res) =>
+            {
+                string html = File.ReadAllText(Path.Combine(Environment.CurrentDirectory, @"..\\..\\HTML\gagq.html"));
+                res.Content = html;
+                res.ContentType = "text/html";
+                await res.SendAsync();
+            });
+            #endregion
+
+            #region get auto generated test page
+            app.Get("/gagt", async (req, res) =>
+            {
+                string html = File.ReadAllText(Path.Combine(Environment.CurrentDirectory, @"..\\..\\HTML\gagt.html"));
+                res.Content = html;
+                res.ContentType = "text/html";
+                await res.SendAsync();
+            });
+            #endregion
+
             /**********java script lib for autocomplete**************/
             #region tokenize
             app.Get("/jquery.tokenize.js", async (req, res) =>

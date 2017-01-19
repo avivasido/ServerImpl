@@ -12,3 +12,17 @@ C:\Users\Gal\Desktop\ServerImpl\QALogic\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Gal\Desktop\ServerImpl\QALogic\obj\Debug\QALogic.csprojResolveAssemblyReference.cache
 C:\Users\Gal\Desktop\ServerImpl\QALogic\obj\Debug\QALogic.dll
 C:\Users\Gal\Desktop\ServerImpl\QALogic\obj\Debug\QALogic.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\QALogic.dll.config
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\QALogic.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\QALogic.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\Constants.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\Entities.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\EntityFramework.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\Constants.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\Entities.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\EntityFramework.xml
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\obj\Debug\QALogic.csprojResolveAssemblyReference.cache
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\obj\Debug\QALogic.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\QALogic\obj\Debug\QALogic.pdb

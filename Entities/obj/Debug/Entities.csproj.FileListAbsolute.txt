@@ -10,3 +10,15 @@ C:\Users\Gal\Desktop\ServerImpl\Entities\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Gal\Desktop\ServerImpl\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
 C:\Users\Gal\Desktop\ServerImpl\Entities\obj\Debug\Entities.dll
 C:\Users\Gal\Desktop\ServerImpl\Entities\obj\Debug\Entities.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\bin\Debug\Entities.dll.config
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\bin\Debug\Entities.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\bin\Debug\Entities.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\bin\Debug\Constants.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\bin\Debug\EntityFramework.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\bin\Debug\Constants.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\bin\Debug\EntityFramework.xml
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\obj\Debug\Entities.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\Entities\obj\Debug\Entities.pdb

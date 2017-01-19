@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <title>Home Page</title>
+</head>
+<body>
+    <div style="background-color:black;color:white;padding:20px;">
+        <h2>generate auto generated question</h2>
+        <p>please choose a subject and a topic</p>
+    </div>
+
+    <div align="center">
+        <div class="container" style="background-color:#f6f6cd">
+            <table>
+                <tr>
+                    <th>subject</th>
+                    <td><select id="subject">
+                        <option value="chest-xray">chest x-ray</option>
+                        </select></td>
+                </tr>
+                <tr>
+                    <th>topic</th>
+                    <td><select id="topic">
+                        <option value="Cavitary Lesion">Cavitary Lesion</option>
+                        <option value="Interstitial opacities">Interstitial opacities</option>
+                        <option value="Left Pleural Effusion">Left Pleural Effusion</option>
+                        <option value="Median Sternotomy">Median Sternotomy</option>
+                        <option value="Right Middle Lobe Collapse">Right Middle Lobe Collapse</option>
+                        </select></td>
+                </tr>
+            </table>
+        </div>
+        <div class="container" style="background-color:#f1f1f1">
+            <button onclick="forgot()">generate question</button>
+        </div>
+    </div>
+</body>
+</html>

@@ -82,3 +82,23 @@ C:\Users\Gal\Desktop\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\QALogic
 C:\Users\Gal\Desktop\ServerImpl\JamesWright.SimpleHttp.Example\obj\Debug\JamesWright.SimpleHttp.Example.csprojResolveAssemblyReference.cache
 C:\Users\Gal\Desktop\ServerImpl\JamesWright.SimpleHttp.Example\obj\Debug\JamesWright.SimpleHttp.Example.exe
 C:\Users\Gal\Desktop\ServerImpl\JamesWright.SimpleHttp.Example\obj\Debug\JamesWright.SimpleHttp.Example.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\JamesWright.SimpleHttp.Example.exe.config
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\obj\Debug\JamesWright.SimpleHttp.Example.exe
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\obj\Debug\JamesWright.SimpleHttp.Example.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\JamesWright.SimpleHttp.Example.exe
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\JamesWright.SimpleHttp.Example.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\EntityFramework.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\JamesWright.SimpleHttp.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\messagesClasses.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\Server.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\Entities.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\QALogic.dll
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\JamesWright.SimpleHttp.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\messagesClasses.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\Server.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\EntityFramework.xml
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\Entities.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\bin\Debug\QALogic.pdb
+C:\Users\roie dominitz\Desktop\project\ServerImpl\JamesWright.SimpleHttp.Example\obj\Debug\JamesWright.SimpleHttp.Example.csprojResolveAssemblyReference.cache
